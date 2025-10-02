@@ -1,3 +1,5 @@
+2025-10-02
+Technical Interview after HireRoo competition
 2025-09-29
 Flask on paiza learning
 2025-09-26
